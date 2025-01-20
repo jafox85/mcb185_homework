@@ -1,0 +1,1 @@
+gunzip -c ../MCB185/data/dictionary.gz | grep -E "r" | grep -E "^[ozrnica]{4,}$" | grep -v "[^ozrnica]" | wc -l
