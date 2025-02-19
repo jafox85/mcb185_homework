@@ -35,9 +35,15 @@ more than one point per category. There is a maximum of 5 points each week.
 	+Attended class Thursday
 	+I met Elaine on Thursday
 - Week 3
+	+Attended class Tuesday
+	+Attended class Thursday
 - Week 4
 - Week 5
+	+I was sick can't show up class Tuesday
+	+Very sick can't show up class Thursday
 - Week 6
+	+Still coughing badly Tuesday
+	+Attended class Thursday
 - Week 7
 - Week 8
 - Week 9
