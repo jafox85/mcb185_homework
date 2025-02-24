@@ -10,14 +10,15 @@ def roll(n):
 	for i in range(n):
 		success = 0
 		fail = 0
+		
 		while success < 3 and fail < 3:
 			d1 = random.randint(1, 20)
 			if d1 == 20:
 				revival += 1
 				break
-			if 19 >= d1 >= 10:
+			elif 19 >= d1 >= 10:
 				success += 1
-			if d1 == 1:
+			elif d1 == 1:
 				fail += 2
 			elif d1 <10:
 				fail += 1
@@ -26,4 +27,4 @@ def roll(n):
 		if fail >= 3:
 				death += 1
 	return revival / n * 100, stable / n * 100, death / n * 100
-print(roll(100000))
+print(roll(1000000))
