@@ -10,3 +10,13 @@ def prob_to_char(p):
 	
 print(char_to_prob('?'))
 print(prob_to_char(00.000630957344480193))
+
+A-J log2
+
+A = 2 ^ -1
+B = 2 ^ -2
+C = 2 ^ -3
+...
+J = 2 ^ -10
+
+
