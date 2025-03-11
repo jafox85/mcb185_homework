@@ -28,23 +28,29 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
-	+Attended class Tuesday
-	+Attended class Thursday
+	+ Attended class Tuesday
+	+ Attended class Thursday
 - Week 2
-	+Attended class Tuesday
-	+Attended class Thursday
+	+ Attended class Tuesday
+	+ Attended class Thursday
 	+I met Elaine on Thursday
 - Week 3
-	+Attended class Tuesday
-	+Attended class Thursday
+	+ Attended class Tuesday
+	+ Attended class Thursday
 - Week 4
 - Week 5
-	+I was sick can't show up class Tuesday
-	+Very sick can't show up class Thursday
+	+ I was sick can't show up class Tuesday
+	+ Very sick can't show up class Thursday
 - Week 6
-	+Still coughing badly Tuesday
-	+Attended class Thursday
+	+ Still coughing badly Tuesday
+	+ Attended class Thursday
 - Week 7
+	+ Attended class Tuesday
+	+ Attended class Thursday
 - Week 8
+	+ Attended class Tuesday
+	+ Helped my high school friend programming
+	+ Attended class Thursday
 - Week 9
+	+ Attended class Tuesday
 - Week 10
