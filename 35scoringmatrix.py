@@ -1,16 +1,22 @@
 import sys
 
 alphabet = sys.argv[1]
-match_score = int(sys.argv[2])
-mismatch_score = int(sys.argv[3])
+match_score = sys.argv[2]
+mismatch_score = sys.argv[3]
+print('   ', end='')
+for nt in alphabet:
+	print(nt, end='  ')
+print()
 
-print("  ", "  ".join(alphabet))  
+for nt1 in alphabet:
+	print(nt1, end=' ')
+	for nt2 in alphabet:
+		if nt1 == nt2: print(match_score, end=' ')
+		else: print(mismatch_score, end=' ')
+	print()
+		
+	
 
-for base1 in alphabet:
-    row = [base1]
-    for base2 in alphabet:
-        if base1 == base2: score = match_score
-        else: score = mismatch_score
-        row.append(f'{score:>2}')
-    print(" ".join(row))
+	
+
 
